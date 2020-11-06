@@ -1,4 +1,4 @@
-# NLP-Twitter-bot
-Creation of a natural language processing script that runs on the server using the Twitter API.
+# Indeed-Portal-Info-Scraper
 
-123
+This script is designed to obtain information about available job vacancies from indeed.com.
+Web-scraping is mainly done with Selenim and BeautifulSoup.
